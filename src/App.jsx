@@ -135,6 +135,7 @@ export default function App() {
           ...c,
           subscriberCount: detailMap[c.channelId]?.subscriberCount ?? c.subscriberCount,
           uploadsPlaylistId: detailMap[c.channelId]?.uploadsPlaylistId ?? c.uploadsPlaylistId,
+          thumbnailUrl: detailMap[c.channelId]?.thumbnailUrl || c.thumbnailUrl,
         }))
         saveChannels(updatedChannels)
         setChannels(updatedChannels)
