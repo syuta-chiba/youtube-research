@@ -31,7 +31,7 @@ export const DEFAULT_KEYWORDS = [
 
 // デフォルトフィルタ設定
 export const DEFAULT_FILTERS = {
-  daysBack: 30,
+  daysBack: 90,
   excludeShorts: true,
   minSubscribers: 100,
   minViews: 1000,

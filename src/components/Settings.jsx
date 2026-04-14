@@ -2,7 +2,7 @@ import { useState } from 'react'
 import {
   getYouTubeApiKey, setYouTubeApiKey,
   getAnthropicApiKey, setAnthropicApiKey,
-  saveFilters, clearAllData,
+  saveFilters, clearAllData, clearLastCheck,
 } from '../utils/storage.js'
 import { resetQuota } from '../utils/quotaManager.js'
 import { DEFAULT_FILTERS } from '../config.js'
@@ -142,6 +142,9 @@ export default function Settings({ filters, onFiltersChange, showToast }) {
       <div className="card section">
         <div className="card-title">🗂️ データ管理</div>
         <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
+          <button className="btn btn-primary" onClick={() => { clearLastCheck(); showToast('次回の調査開始で全件取得モードになります', 'success') }}>
+            全件再取得（差分リセット）
+          </button>
           <button className="btn btn-danger" onClick={handleClearData}>
             チャンネル・バズ履歴をクリア
           </button>

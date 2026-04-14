@@ -45,6 +45,7 @@ export function saveChannels(channels) { set(KEYS.CHANNELS, channels); }
 
 export function getLastCheck() { return get(KEYS.LAST_CHECK) || null; }
 export function saveLastCheck(timestamp) { set(KEYS.LAST_CHECK, timestamp); }
+export function clearLastCheck() { localStorage.removeItem(KEYS.LAST_CHECK); }
 
 export function getQuotaUsed() {
   const today = new Date().toISOString().slice(0, 10);
