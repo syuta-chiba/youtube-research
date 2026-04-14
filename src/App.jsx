@@ -41,7 +41,8 @@ export default function App() {
 
   // Load from storage on mount
   useEffect(() => {
-    setChannels(getChannels())
+    const loaded = getChannels()
+    setChannels(loaded)
     setLastCheck(getLastCheck())
     setFilters(getFilters())
     const today = new Date().toISOString().slice(0, 10)
@@ -49,6 +50,24 @@ export default function App() {
     if (history?.videos) setBuzzVideos(history.videos)
     if (history?.trendData) setTrendData(history.trendData)
     if (history?.analysisData) setAnalysisData(history.analysisData)
+
+    // サムネイルが未取得のチャンネルがあればAPIキーで補完
+    const ytKey = getYouTubeApiKey()
+    if (ytKey && loaded.some(c => !c.thumbnailUrl)) {
+      fetchChannelDetails(ytKey, loaded.map(c => c.channelId))
+        .then(details => {
+          const detailMap = Object.fromEntries(details.map(d => [d.channelId, d]))
+          const updated = loaded.map(c => ({
+            ...c,
+            thumbnailUrl: detailMap[c.channelId]?.thumbnailUrl || c.thumbnailUrl,
+            subscriberCount: detailMap[c.channelId]?.subscriberCount ?? c.subscriberCount,
+            uploadsPlaylistId: detailMap[c.channelId]?.uploadsPlaylistId || c.uploadsPlaylistId,
+          }))
+          saveChannels(updated)
+          setChannels(updated)
+        })
+        .catch(() => {})
+    }
   }, [])
 
   const showToast = useCallback((message, type = 'info') => {
