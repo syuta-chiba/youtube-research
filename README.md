@@ -26,6 +26,7 @@
 
 ### 競合分析
 - [06. 競合チャンネル徹底分析](reports/06_competitor_deep_dive.md) — 日本・海外の主要AI系チャンネルの当たり/ハズレ動画
+- [25. walkers-development 分析](reports/25_walkers_analysis.md) — 当たり企画 vs ハズレ企画の差を徹底分析
 
 ### 制作ノウハウ
 - [03. タイトル・サムネ戦略](reports/03_title_thumbnail_strategy.md) — クリック率を上げる法則
