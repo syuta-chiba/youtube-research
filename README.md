@@ -49,6 +49,22 @@
 ### リスク管理
 - [22. 失敗事例・やってはいけないこと](reports/22_mistakes_to_avoid.md) — AI規制・著作権・バーンアウト対策
 
+### 海外調査（日本未上陸ネタ発掘）
+- [27. 海外: AIエージェント・自動化](reports/27_overseas_agents.md) — A2Aプロトコル、Hermes Agent等
+- [28. 海外: AIコーディング](reports/28_overseas_coding.md) — Trae IDE、Micro-SaaS実録、Codex SuperApp等
+- [29. 海外: AIツール・プロダクト](reports/29_overseas_tools.md) — Subscribr、1of10、Pikzels等の日本語ゼロツール
+- [30. 海外: フォーマット・企画形式](reports/30_overseas_formats.md) — 100秒解説、AI対決、コードロースト等
+- [31. 海外: AI教育・学習](reports/31_overseas_education.md) — AI Second Brain、NotebookLM活用等
+- [32. 海外: AIビジネス・起業](reports/32_overseas_business.md) — AIエージェンシー、Micro-SaaS等
+- [33. 海外: AIクリエイティブ](reports/33_overseas_creative.md) — Seedance 2.0、AI短編映画化等
+- [34. 海外: ローカルAI・オープンソース](reports/34_overseas_local_ai.md) — AIホームサーバー、SLM等
+- [35. 海外: バズ動画個別分析](reports/35_overseas_viral_analysis.md) — 100万再生以上の動画20本を分析
+- [36. 海外: 韓国・中国圏](reports/36_overseas_asia.md) — Happy Horse、Galaxy Corp等
+- [37. 海外: 急成長チャンネル分析](reports/37_overseas_channel_profiles.md) — Nate Herk、Fireship等15チャンネル
+
+### 優先度・ランキング
+- [26. 動画企画 優先度ランキングTOP50](reports/26_priority_ranking.md) — 全レポートから厳選、スコアリング済み
+
 ### ツール・テンプレート
 - [23. YouTuber向けプロンプト集](reports/23_prompt_collection.md) — 企画/台本/タイトル/SEO等10カテゴリ25個、コピペで使える
 - [24. 多言語展開ガイド](reports/24_global_expansion.md) — AI吹き替え・字幕で海外視聴者を獲得する方法
