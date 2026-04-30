@@ -64,6 +64,12 @@
 
 ### 優先度・ランキング
 - [26. 動画企画 優先度ランキングTOP50](reports/26_priority_ranking.md) — 全レポートから厳選、スコアリング済み
+- [39. 海外→日本 未上陸テーマ最終ランキングTOP30](reports/39_overseas_final_ranking.md) — **海外調査の集大成。今すぐ出すべき動画TOP5**
+- [38. Reddit・SNS話題調査](reports/38_reddit_sns_trends.md) — コメント欄が荒れる＝エンゲージメント爆発テーマ
+- [40. 5月AIイベント予測カレンダー](reports/40_may_predictions.md) — Google I/O、Claude 5等の先回り企画
+- [41. 穴場キーワード調査](reports/41_keyword_gaps.md) — 検索1位が取れるキーワードTOP50
+- [42. 海外発の成長ハック集](reports/42_growth_hacks.md) — アルゴリズムハック・SNS導線テクニック
+- [43. Faceless（顔出しなし）完全戦略](reports/43_faceless_strategy.md) — 月$0〜$31.50で始める制作ワークフロー
 
 ### ツール・テンプレート
 - [23. YouTuber向けプロンプト集](reports/23_prompt_collection.md) — 企画/台本/タイトル/SEO等10カテゴリ25個、コピペで使える
