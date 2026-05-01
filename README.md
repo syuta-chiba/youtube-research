@@ -6,7 +6,9 @@
 ---
 
 ## まず読むべき
-- [00. 総合まとめ（エグゼクティブサマリー）](reports/00_EXECUTIVE_SUMMARY.md) — **全25本の調査を統合した最終レポート。最重要発見TOP10・動画企画TOP20・収益化ロードマップ**
+- [00. 総合まとめ（エグゼクティブサマリー）](reports/00_EXECUTIVE_SUMMARY.md) — 全レポートの最重要発見TOP10・収益化ロードマップ
+- [50. 最終アクションプラン](reports/50_FINAL_ACTION_PLAN.md) — **全49レポート統合。今週出すべき動画TOP5・5月投稿計画**
+- [39. 海外→日本 未上陸テーマ最終ランキング](reports/39_overseas_final_ranking.md) — **日本語ゼロのテーマTOP30**
 
 ---
 
@@ -70,6 +72,32 @@
 - [41. 穴場キーワード調査](reports/41_keyword_gaps.md) — 検索1位が取れるキーワードTOP50
 - [42. 海外発の成長ハック集](reports/42_growth_hacks.md) — アルゴリズムハック・SNS導線テクニック
 - [43. Faceless（顔出しなし）完全戦略](reports/43_faceless_strategy.md) — 月$0〜$31.50で始める制作ワークフロー
+
+### 海外調査（テーマ特化）
+- [44. MCP・A2A・ACPプロトコル](reports/44_mcp_protocols.md) — 日本語ゼロの新AI通信規格
+- [45. 注目AIスタートアップ](reports/45_ai_startups.md) — 2026年の注目企業TOP20
+- [46. AI×キャリア・仕事](reports/46_ai_careers.md) — 新職種・不安煽り→対策の法則
+- [47. AAA（AIエージェンシー）深掘り](reports/47_aaa_deep_dive.md) — 日本語完全ゼロのビジネスモデル
+- [48. n8n/Dify/Make自動化ツール](reports/48_automation_tools.md) — 日本語チュートリアルが空白
+- [49. AI 3大モデル比較の作り方](reports/49_model_comparison.md) — 比較動画の差別化フォーマット
+- [51. Vibe Coding深掘り](reports/51_vibe_coding_deep_dive.md) — 収益チャレンジ・賛否両論
+- [52. AI倫理・規制・社会問題](reports/52_ai_ethics_regulation.md) — AGI論争・ディープフェイク規制
+- [53. プロンプトエンジニアリング](reports/53_prompt_engineering.md) — コンテキストエンジニアリング等の新概念
+- [54. RAG・ナレッジベース](reports/54_rag_knowledge.md) — Agentic RAG・Graph RAG等
+- [55. AI×個人開発・インディーハッカー](reports/55_indie_hacker.md) — ソロで月$1M MRRの事例
+- [56. AIハードウェア・デバイス](reports/56_ai_hardware.md) — OpenAI Gumdrop・フォトニックNPU
+- [57. AI×データ分析・Excel](reports/57_ai_data_analysis.md) — Excel Copilot Agent Mode等
+- [58. OpenAI Codex深掘り](reports/58_codex_deep_dive.md) — Claude Codeとの使い分け
+- [59. AI×セキュリティ](reports/59_ai_security.md) — AIボイスクローン詐欺・プロンプトインジェクション
+- [60. Google I/O 2026攻略](reports/60_google_io_strategy.md) — 先回り・速報動画の具体的戦略
+- [61. AI×マーケティング](reports/61_ai_marketing.md) — LLM SEO・AI UGC広告
+- [62. AI×教育](reports/62_ai_education.md) — Khanmigo失敗分析・AI検出誤検知問題
+- [63. 週刊AIニュース番組フォーマット](reports/63_news_format.md) — 定期番組の作り方・台本テンプレ
+- [64. AI×金融・不動産](reports/64_ai_finance.md) — 保険×AI（RPM最高峰$25-40）
+- [65. Claude特化コンテンツ](reports/65_claude_specialization.md) — Claude専門チャンネルのポジショニング
+- [66. AI×ヘルスケア・医療](reports/66_ai_healthcare.md) — ChatGPT Health・ディープフェイクX線
+- [67. AI×ゲーム開発](reports/67_ai_gamedev.md) — Vibe Jam・YouTube Playables Builder
+- [68. AI×ライフハック・日常活用](reports/68_ai_lifehacks.md) — 一般層にリーチする企画
 
 ### ツール・テンプレート
 - [23. YouTuber向けプロンプト集](reports/23_prompt_collection.md) — 企画/台本/タイトル/SEO等10カテゴリ25個、コピペで使える
