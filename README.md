@@ -125,6 +125,12 @@
 - [競合の弱点・改善点](scripts/research_competitor_weaknesses.md) — 視聴者の不満TOP10・emperor_chの改善チャンス
 - [シリーズ展開・長期戦略](scripts/research_series_strategy.md) — シリーズ3パターン・有料コース転換・6ヶ月ロードマップ
 
+### 登録者1,400人からの成長戦略
+- [1,400→5,000人の成長戦略](scripts/research_1k_to_5k_strategy.md) — 1,000人超えで変わるアルゴリズム・ホッケースティック成長の条件
+- [既存1,400人の活用法](scripts/research_existing_audience.md) — 初動48時間の最大化・ブリッジ動画・Premiere活用
+- [外部プロモーション先](scripts/research_external_promotion.md) — Reddit(r/n8n 10万人)・n8n Discord(7.8万人)・Qiita/Zenn連携
+- [Shorts連携戦略](scripts/research_shorts_funnel.md) — 1本の長尺から15本Shorts・導線5層構造・投稿計画
+
 ### 小規模チャンネルの初動戦略
 - [ゼロからの最初のクリック獲得](scripts/research_zero_to_first_click.md) — 2026年アルゴリズムの新チャンネル優遇・検索ファースト戦略
 - [n8n検索キーワード競合度分析](scripts/research_keyword_competition.md) — 勝てる隙間キーワード30個・kintone/freee連携が完全空白
