@@ -136,6 +136,12 @@
 - [n8n検索キーワード競合度分析](scripts/research_keyword_competition.md) — 勝てる隙間キーワード30個・kintone/freee連携が完全空白
 - [ゼロから伸びたチャンネルの初期戦略](scripts/research_zero_to_breakout.md) — Nate Herk・AIでサボろう等10事例の初期分析
 
+### n8n 勝つための戦略リサーチ
+- [いけともch徹底分析](scripts/research_iketomo_analysis.md) — 最大競合の当たり/ハズレパターン・勝ち筋は「深さ」と「実装」
+- [YouTube検索結果の現状監査](scripts/research_search_results_audit.md) — kintone/freee/MCP日本語が動画ゼロ・避けるべきキーワード
+- [クリック率の心理学](scripts/research_click_psychology.md) — 0.05秒で判断されるサムネ・損失回避2.5倍の法則
+- [公開タイミング・初動最大化](scripts/research_upload_timing.md) — 水曜16:30投稿→ゴールデンタイム最大露出
+
 ### n8n深掘りリサーチ
 - [日本語n8n競合調査](scripts/research_japan_n8n_competitors.md) — いけともch(42万再生)・homula(公式認定)等の現状と勝てるポイント
 - [n8n最新機能・アップデート](scripts/research_n8n_latest_features.md) — MCP対応・OpenAI Responses API移行(8月期限)・Human-in-the-Loop
