@@ -102,3 +102,29 @@
 ### ツール・テンプレート
 - [23. YouTuber向けプロンプト集](reports/23_prompt_collection.md) — 企画/台本/タイトル/SEO等10カテゴリ25個、コピペで使える
 - [24. 多言語展開ガイド](reports/24_global_expansion.md) — AI吹き替え・字幕で海外視聴者を獲得する方法
+
+---
+
+## n8n動画 制作リサーチ
+
+### 競合の構成分析
+- [Nate Herk 構成分析](scripts/structure_nate_herk.md) — 6本の動画構成・デモファースト戦略
+- [Nick Saraev 構成分析](scripts/structure_nick_saraev.md) — 5本の動画構成・ライブビルド形式
+- [Julian Goldie 構成分析](scripts/structure_julian_goldie.md) — 9本の動画構成・大量テンプレ配布
+- [3人の総合比較](scripts/n8n_competitor_structures.md) — 共通パターン + emperor_ch推奨構成
+
+### n8n動画のリサーチ
+- [視聴者ニーズ・検索意図](scripts/research_viewer_needs.md) — よくある質問TOP20・三大挫折ポイント
+- [伸びるタイトル・サムネ](scripts/research_title_thumbnail.md) — 伸びてるタイトル35個・パワーワード・サムネパターン
+- [冒頭フック・視聴維持率](scripts/research_hooks_retention.md) — フック5パターン・長尺動画の維持テクニック10選
+- [差別化ポイント](scripts/research_differentiation.md) — LINE/kintone/freee連携・日本市場特有のニーズ
+- [ワークフロー事例50選](scripts/research_workflow_ideas.md) — カテゴリ別デモネタ集・動画映えTOP10
+- [CTA・収益化導線](scripts/research_cta_monetization.md) — 3人の収益モデル比較・CTA台本テンプレ5パターン
+- [SEO・説明欄・タグ](scripts/research_seo_optimization.md) — キーワード60個・説明欄テンプレ・公開前チェックリスト
+- [制作ツール・撮影環境](scripts/research_production_tools.md) — 0円構成（OBS+VOICEVOX+DaVinci）・推奨設定
+- [競合の弱点・改善点](scripts/research_competitor_weaknesses.md) — 視聴者の不満TOP10・emperor_chの改善チャンス
+- [シリーズ展開・長期戦略](scripts/research_series_strategy.md) — シリーズ3パターン・有料コース転換・6ヶ月ロードマップ
+
+### emperor_ch用 台本・構成
+- [n8n動画 アウトライン](scripts/n8n_video_outline.md) — H2/H3構成のアウトライン
+- [n8n動画 フル台本](scripts/n8n_video_script.md) — セリフ・説明欄・タグ・制作チェックリスト付き
