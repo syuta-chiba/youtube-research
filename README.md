@@ -136,6 +136,12 @@
 - [n8n検索キーワード競合度分析](scripts/research_keyword_competition.md) — 勝てる隙間キーワード30個・kintone/freee連携が完全空白
 - [ゼロから伸びたチャンネルの初期戦略](scripts/research_zero_to_breakout.md) — Nate Herk・AIでサボろう等10事例の初期分析
 
+### n8n深掘りリサーチ
+- [日本語n8n競合調査](scripts/research_japan_n8n_competitors.md) — いけともch(42万再生)・homula(公式認定)等の現状と勝てるポイント
+- [n8n最新機能・アップデート](scripts/research_n8n_latest_features.md) — MCP対応・OpenAI Responses API移行(8月期限)・Human-in-the-Loop
+- [収益チャレンジ企画](scripts/research_challenge_format.md) — 「30日で10万円稼ぐ」フォーマット・英語圏の成功事例
+- [コラボ・ゲスト出演戦略](scripts/research_collab_strategy.md) — n8n公式5つの参加経路・コラボ依頼テンプレート
+
 ### emperor_ch用 台本・構成
 - [n8n動画 アウトライン](scripts/n8n_video_outline.md) — H2/H3構成のアウトライン
 - [n8n動画 フル台本](scripts/n8n_video_script.md) — セリフ・説明欄・タグ・制作チェックリスト付き
