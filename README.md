@@ -142,6 +142,12 @@
 - [クリック率の心理学](scripts/research_click_psychology.md) — 0.05秒で判断されるサムネ・損失回避2.5倍の法則
 - [公開タイミング・初動最大化](scripts/research_upload_timing.md) — 水曜16:30投稿→ゴールデンタイム最大露出
 
+### n8n 動画公開・グロース戦略
+- [日本企業のAI自動化ニーズ](scripts/research_japan_automation_needs.md) — 経理10時間→1時間・LINE自動応答・SNS完全自動運用
+- [初動成功事例集](scripts/research_launch_case_studies.md) — Hacker News 1投稿で53万再生・公開後48時間プラン
+- [コメント欄エンゲージメント](scripts/research_comment_engagement.md) — 公開2時間以内50件返信でリーチ+20%・ボイスリプライ
+- [再生リスト・関連動画最適化](scripts/research_playlist_optimization.md) — 3本連続視聴で評価急上昇・シリーズ設定・終了画面
+
 ### n8n深掘りリサーチ
 - [日本語n8n競合調査](scripts/research_japan_n8n_competitors.md) — いけともch(42万再生)・homula(公式認定)等の現状と勝てるポイント
 - [n8n最新機能・アップデート](scripts/research_n8n_latest_features.md) — MCP対応・OpenAI Responses API移行(8月期限)・Human-in-the-Loop
