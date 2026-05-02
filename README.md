@@ -125,6 +125,11 @@
 - [競合の弱点・改善点](scripts/research_competitor_weaknesses.md) — 視聴者の不満TOP10・emperor_chの改善チャンス
 - [シリーズ展開・長期戦略](scripts/research_series_strategy.md) — シリーズ3パターン・有料コース転換・6ヶ月ロードマップ
 
+### 小規模チャンネルの初動戦略
+- [ゼロからの最初のクリック獲得](scripts/research_zero_to_first_click.md) — 2026年アルゴリズムの新チャンネル優遇・検索ファースト戦略
+- [n8n検索キーワード競合度分析](scripts/research_keyword_competition.md) — 勝てる隙間キーワード30個・kintone/freee連携が完全空白
+- [ゼロから伸びたチャンネルの初期戦略](scripts/research_zero_to_breakout.md) — Nate Herk・AIでサボろう等10事例の初期分析
+
 ### emperor_ch用 台本・構成
 - [n8n動画 アウトライン](scripts/n8n_video_outline.md) — H2/H3構成のアウトライン
 - [n8n動画 フル台本](scripts/n8n_video_script.md) — セリフ・説明欄・タグ・制作チェックリスト付き
