@@ -149,5 +149,7 @@
 - [コラボ・ゲスト出演戦略](scripts/research_collab_strategy.md) — n8n公式5つの参加経路・コラボ依頼テンプレート
 
 ### emperor_ch用 台本・構成
+- [最初のn8n動画 完全設計図](scripts/FIRST_VIDEO_BLUEPRINT.md) — 全リサーチ統合。テーマ・タイトル・サムネ・構成・公開戦略・Shorts案
+- [タイトルA/Bテスト候補30個](scripts/research_title_ab_test.md) — スコアリング済み・心理学的根拠付き・TOP5詳細分析
 - [n8n動画 アウトライン](scripts/n8n_video_outline.md) — H2/H3構成のアウトライン
 - [n8n動画 フル台本](scripts/n8n_video_script.md) — セリフ・説明欄・タグ・制作チェックリスト付き
