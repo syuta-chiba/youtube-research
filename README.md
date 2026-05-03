@@ -154,6 +154,12 @@
 - [収益チャレンジ企画](scripts/research_challenge_format.md) — 「30日で10万円稼ぐ」フォーマット・英語圏の成功事例
 - [コラボ・ゲスト出演戦略](scripts/research_collab_strategy.md) — n8n公式5つの参加経路・コラボ依頼テンプレート
 
+### コールドメール（フォーム営業）自動化 動画リサーチ
+- [海外動画の構成分析](scripts/cold_email/research_overseas_structure.md) — Nate Herk/Nick Saraev等のコールドメール動画の構成
+- [日本市場向けアレンジ](scripts/cold_email/research_japan_adaptation.md) — 特定電子メール法・フォーム営業が正解・FUMA(160万社無料)
+- [n8n技術ガイド](scripts/cold_email/research_technical_setup.md) — ワークフロー全体設計・API・コスト
+- [タイトル・企画設計](scripts/cold_email/research_title_design.md) — タイトル20個・サムネ案・構成アウトライン
+
 ### emperor_ch用 台本・構成
 - [最初のn8n動画 完全設計図](scripts/FIRST_VIDEO_BLUEPRINT.md) — 全リサーチ統合。テーマ・タイトル・サムネ・構成・公開戦略・Shorts案
 - [タイトルA/Bテスト候補30個](scripts/research_title_ab_test.md) — スコアリング済み・心理学的根拠付き・TOP5詳細分析
