@@ -154,6 +154,14 @@
 - [収益チャレンジ企画](scripts/research_challenge_format.md) — 「30日で10万円稼ぐ」フォーマット・英語圏の成功事例
 - [コラボ・ゲスト出演戦略](scripts/research_collab_strategy.md) — n8n公式5つの参加経路・コラボ依頼テンプレート
 
+### 動画を当てるための最終リサーチ
+- [ターゲット層分析](scripts/targeting/research_target_audience.md) — 5つのペルソナ・副業層で集客→法人層でマネタイズの二段構え
+- [タイトル最終決定](scripts/targeting/research_title_final.md) — 伸びるタイトル7大法則・最終候補TOP3
+- [情報量・動画尺の最適解](scripts/targeting/research_optimal_length.md) — 日本では20-30分が最適・5-8時間は非推奨
+- [構成パターン比較](scripts/targeting/research_structure_patterns.md) — I-PREP法・海外式フック+日本的丁寧さのハイブリッド
+- [当たった日本テック動画36本分析](scripts/targeting/research_japan_hits.md) — 中田敦彦350万再生〜いけともch100万再生のパターン
+- [日本独自の切り口](scripts/targeting/research_japan_angle.md) — FAX40%・DX失敗率64%・Excel属人化のあるある
+
 ### コールドメール（フォーム営業）自動化 動画リサーチ
 - [海外動画の構成分析](scripts/cold_email/research_overseas_structure.md) — Nate Herk/Nick Saraev等のコールドメール動画の構成
 - [日本市場向けアレンジ](scripts/cold_email/research_japan_adaptation.md) — 特定電子メール法・フォーム営業が正解・FUMA(160万社無料)
